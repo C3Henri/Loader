@@ -1,2 +1,2 @@
 # Loader
-Apenas um sistema de carregamento usando pace js
+Sistema basico de "iniciaizador" de site usando pace.js
